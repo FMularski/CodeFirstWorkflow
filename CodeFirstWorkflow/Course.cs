@@ -9,7 +9,7 @@ namespace CodeFirstWorkflow
     enum CourseLevel : byte
     {
         Beginner = 0,
-        Intermediet = 1,
+        Intermediate = 1,
         Advanced = 2
     }
 
